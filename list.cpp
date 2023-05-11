@@ -26,7 +26,7 @@ int main()
 
    }
    cout<<endl;
-          list<int> s(5,14);//initialisinfg5 element in s assigning 14 as their element
+          list<int> s(5,1404);//initialisinfg5 element in s assigning 14 as their element
 cout<<"printing s: ";
    for(int i:s){
     cout<<i<<" ";
